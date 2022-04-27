@@ -1,0 +1,28 @@
+/* Tag Slector */
+body{
+  background-color: #BFFFF0;
+}
+h1,h3{
+  color: Blue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 5%;
+}
+/* class selector*/
+.Sharda{
+  background-color: yellow;
+}
+.h3class{
+  color: green;
+}
+
+/*id selector */
+ #heading {
+   color: violet ;
+ }
